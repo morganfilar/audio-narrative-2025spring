@@ -35,6 +35,7 @@ Stories that happen here:
 | Water moving inside bottle | Record my water bottle |
 | Beeping watch  | Free sound  |
 | Door opening | Metal_push door open.wav, by pagancow, https://freesound.org/people/pagancow/sounds/15315/, Creative Commons 0 |
+|Works Cited| Recorded myself saying "This project was a day in the life at my favorite workout class by me, Morgan Filar! For a full list of credits visit github.com/morganfilar |
 
 Script:   
 \*\*door opening  
