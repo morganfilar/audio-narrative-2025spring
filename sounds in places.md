@@ -25,13 +25,16 @@ Stories that happen here:
 
 | Needs | Solutions |
 | :---- | :---- |
+| Indistinct chatter| background people crowd_noisy chatter talking mumble loop 02, by Exoticgaming, https://freesound.org/people/Exoticgaming/sounds/678226/, Creative Commons 0 |
+| "Okay everyone, grab two sets of weights and make your way into the gym"| Recorded myself| 
 | “You got this” | Record myself |
-| Treadmill thumping  | Free sound |
-| High fives | Record my roommates |
-| Heavy breathing and chatter | Free sound |
+| Treadmill thumping  | Modify Speed_Treadmill_Studio21Mävers.wav, by Soundscape_Leuphana, https://freesound.org/people/Soundscape_Leuphana/sounds/210389/, Creative Commons 0 |
+| High fives | Recorded my roommates |
+| Heavy breathing | Free sound |
 | Weights slamming on to floor | Free sound  |
 | Water moving inside bottle | Record my water bottle |
 | Beeping watch  | Free sound  |
+| Door opening | Metal_push door open.wav, by pagancow, https://freesound.org/people/pagancow/sounds/15315/, Creative Commons 0 |
 
 Script:   
 \*\*door opening  
