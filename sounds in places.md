@@ -35,4 +35,25 @@ Stories that happen here:
 | Water moving inside bottle | Record my water bottle |
 | Beeping watch  | Free sound  |
 | Door opening | Metal_push door open.wav, by pagancow, https://freesound.org/people/pagancow/sounds/15315/, Creative Commons 0 |
-|Works Cited| Recorded myself saying "This proj
+|Works Cited| Recorded myself saying "This project was a day in the life at my favorite workout class by me, Morgan Filar! For a full list of credits visit github.com/morganfilar |
+
+Script:   
+\*\*door opening  
+\*\*indistinct chatter   
+“Hey how are you?”  
+“Good how are you\! I am excited for this class”  
+“Me too\! Thanks for coming. Go ahead and grab 2 sets of weights, one heavy one light”   
+“Got it, thank you”
+
+\*\*treadmill sounds   
+“Last set you can do this”   
+“Good job”  
+“Keep pushing”   
+“Almost there”  
+\*\*tired breathing   
+“3…2…1…”   
+\*\* “woo hoos” and exclamatory sounds   
+“Go ahead and high 5 your partner. Good job everyone\!”   
+\*\*sounds of high fiving   
+\*\*indistinct chatter 
+
